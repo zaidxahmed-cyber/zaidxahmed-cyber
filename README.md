@@ -3,7 +3,7 @@
  👯 I'm looking to collaborate on SOC automation, malware analysis, GRC frameworks, and AI-powered security solutions.<br>
  🤝 I'm looking for help with building production security projects and networking within the cybersecurity field.<br>
  🌱 I'm currently learning Advanced malware analysis, GRC frameworks, and AI-driven security automation<br> 💬 Ask me about Malware analysis, GRC frameworks, SOC operations, and AI agents for automation.<br>
-⚡ Fun fact I built an autonomous AI agency that operates businesses, generates revenue, and saves time through intelligentautomation.
+⚡ Fun fact I built an autonomous AI agency that operates businesses, generates revenue, and saves time.
 
 
 ## 🌐 Socials:
